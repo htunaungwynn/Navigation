@@ -1,0 +1,20 @@
+{
+  "name": "MrSite-NavigationMenu",
+  "version": "0.0.1",
+  "main": "navigation.js",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "authors": [
+    "MrSite"
+  ],
+  "description": "Site navigation menu",
+  "license": "MIT",
+  "private": true
+}
